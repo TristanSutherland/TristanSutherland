@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello there. My name is Tristan Sutherland.👋 
 
-<!--
-**TristanU21442615/TristanU21442615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About 
+Passionate about data-driven decision-making, I am dedicated to transitioning into the role of a data scientist. I thrive in collaborative environments and am committed to continuous learning to stay at the forefront of emerging trends in data science.
 
-Here are some ideas to get you started:
+## Skills
+I am proficient in:
+- Python
+- Java
+- C++
+- RStudio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+### Platforms
+- Ubuntu
+- Ubuntu Server Edition
+- Windows 10, 11
+
+### Tools
+- GitHub & GIT
+- Visual Studio Code
+- Supabase
+
+## What do I do?
+I am currently pursuing my Bachelor of Science in Information and Knowledge Systems with a focus on Data Science at the University of Pretoria.
