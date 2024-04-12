@@ -21,5 +21,8 @@ I am proficient in:
 - Visual Studio Code
 - Supabase
 
+## Projects
+- Twitter/X clone for educational purposes
+
 ## What do I do?
 I am currently pursuing my Bachelor of Science in Information and Knowledge Systems with a focus on Data Science at the University of Pretoria.
