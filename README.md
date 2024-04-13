@@ -23,6 +23,8 @@ I am proficient in:
 
 ## Projects
 - Twitter/X clone for educational purposes
+- HelixCapstone project(still deciding)
+- Mini project 2
 
 ## What do I do?
 I am currently pursuing my Bachelor of Science in Information and Knowledge Systems with a focus on Data Science at the University of Pretoria.
