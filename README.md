@@ -1,6 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="/media/MyName.mp4" type="video/mp4">
-</video>
+<img src="media/name.svg">
 
 # Hello there.👋 
 
