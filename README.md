@@ -1,4 +1,5 @@
-# Hello there. My name is Tristan Sutherland.👋 
+<h1 style="color: purple"> Tristan Sutherland</h1>
+# Hello there.👋 
 
 ## About 
 Passionate about data-driven decision-making, I am dedicated to transitioning into the role of a data scientist. I thrive in collaborative environments and am committed to continuous learning to stay at the forefront of emerging trends in data science.
