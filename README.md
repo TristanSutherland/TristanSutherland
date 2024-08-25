@@ -1,4 +1,4 @@
-<h1 style="color: purple"> Tristan Sutherland</h1>
+<img src="media/MyName.mp4">
 
 # Hello there.👋 
 
