@@ -1,4 +1,4 @@
-<img src="media/MyName.mp4">
+<img src="/media/MyName.mp4">
 
 # Hello there.👋 
 
