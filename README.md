@@ -1,4 +1,4 @@
-<img src="media/name.svg" height=100px;>
+<img src="media/name.svg" height=200px;>
 
 # Hello there.👋 
 
