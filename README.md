@@ -1,6 +1,4 @@
-<img src="media/name.svg" height=400px;>
-
-# Hello there.👋 
+# Hello there, I am Tristan Sutherland.👋 
 
 ## About 
 Passionate about data-driven decision-making, I am dedicated to transitioning into the role of a data scientist. I thrive in collaborative environments and am committed to continuous learning to stay at the forefront of emerging trends in data science.
