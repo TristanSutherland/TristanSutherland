@@ -1,5 +1,9 @@
 # Hello there, I am Tristan Sutherland.👋 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 ## About 
 A motivated Computer Science fanatic with a genuine passion for solving complex problems through elegant solutions. I thrive across the full technology stack, with particular interests in backend development and data science. Currently seeking to launch my career in technology, I bring strong analytical thinking, fresh perspectives, a willingness to learn, and an unwavering commitment to delivering quality work. I'm particularly excited about opportunities, allowing me to grow alongside experienced professionals while contributing to meaningful projects. I thrive in collaborative environments and am committed to continuous learning to stay at the forefront of emerging trends.
 
@@ -48,6 +52,10 @@ A motivated Computer Science fanatic with a genuine passion for solving complex 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🧪 Testing & API Tools
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
