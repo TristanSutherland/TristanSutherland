@@ -1,5 +1,7 @@
-# Hello there, I am Tristan Sutherland.👋 
 <div align="center">
+
+# Hello there, I am Tristan Sutherland.👋 
+
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL) 
