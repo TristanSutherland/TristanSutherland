@@ -2,7 +2,7 @@
 
 # Hello there, I am Tristan Sutherland.👋 
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-sutherland-87ba92238/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trstnsutherland/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL) 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trstnsutherland@gmail.com)
 
