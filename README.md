@@ -1,11 +1,12 @@
 <div align="center">
 
 # Hello there, I am Tristan Sutherland.👋 
-
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL) 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trstnsutherland@gmail.com)
+
+</div>
 
 ## About 
 
@@ -13,6 +14,7 @@ A motivated Computer Science fanatic with a genuine passion for solving complex 
   
 ## 📈 GitHub Stats
 
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TristanSutherland&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TristanSutherland&theme=radical" alt="GitHub Streak" />
 </div>
