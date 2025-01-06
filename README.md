@@ -10,10 +10,6 @@ A motivated Computer Science fanatic with a genuine passion for solving complex 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TristanSutherland&theme=radical" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  
-</div>
-
 ## Technical Skills 
 ### 🔧 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
