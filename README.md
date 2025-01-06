@@ -28,6 +28,8 @@ Technologies used:
 - Backend(AWS): Cognito, SES, Lambda, API gateway, Amplify, EC2, DynamoDB, S3 Bucket
 - Front-end: Angular, Typescipt
 - Testing: Cypress, postman, AWS API tests
+
+https://github.com/COS301-SE-2024/Smart-Inventory
   
 ### Twitter/X clone for educational purposes
 Developed a feature-rich social media clone  of the Twitter/X platform using React.js, Supabase, and modern web technologies. Built comprehensive user interaction systems including real-time feeds, content discovery, and engagement features. Implemented robust backend functionality with PostgreSQL database integration and real-time data synchronization.
