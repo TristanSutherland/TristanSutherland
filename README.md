@@ -82,7 +82,7 @@ Developed a feature-rich social media clone  of the Twitter/X platform using Rea
   
 https://github.com/COS301-SE-2024/MiniProject15
   
-### StructSure(Still Developing)
+### StructSure (Under Construction)
 A modernized solution for property valuation and quantity surveying, enabling real-time calculations, detailed reporting, and accurate cost estimation. Features an intuitive interface for creating property layouts and managing project specifications. Provides automated report generation, real-time collaboration, and centralized management of construction costs and material specifications. 
 - Backend(Firebase): Firebase SDK, Firestore (real-time sync NoSQL), Authentication, Cloud Functions
 - Front-end: Next.js, Typescript, Tailwind
