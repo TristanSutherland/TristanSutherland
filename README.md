@@ -22,12 +22,6 @@ I am proficient in:
 - Supabase
 
 ## Projects
-### Twitter/X clone for educational purposes
-Developed a feature-rich social media clone  of the Twitter/X platform using React.js, Supabase, and modern web technologies. Built comprehensive user interaction systems including real-time feeds, content discovery, and engagement features. Implemented robust backend functionality with PostgreSQL database integration and real-time data synchronization.
-- Backend(Supabase): Postgres (SQL), Supabase SDK
-- Front-end: React, Typescript
-- Testing: Cypress, postman
-
 ### SmartInventory
 Developed a comprehensive web-based inventory management solution featuring real-time stock tracking, automated reordering, and advanced analytics. Implemented key features including role-based access control, EOQ modeling, and ABC analysis for inventory prioritization. Built with a focus on user experience, the system incorporates machine learning for predictive forecasting of stock requirements based on historical data patterns.
 Technologies used:
@@ -35,7 +29,16 @@ Technologies used:
 - Front-end: Angular, Typescipt
 - Testing: Cypress, postman, AWS API tests
   
-### StructSure
+### Twitter/X clone for educational purposes
+Developed a feature-rich social media clone  of the Twitter/X platform using React.js, Supabase, and modern web technologies. Built comprehensive user interaction systems including real-time feeds, content discovery, and engagement features. Implemented robust backend functionality with PostgreSQL database integration and real-time data synchronization.
+- Backend(Supabase): Postgres (SQL), Supabase SDK
+- Front-end: React, Typescript
+- Testing: Cypress, postman
+  
+### StructSure(Still Developing)
+A modernized solution for property valuation and quantity surveying, enabling real-time calculations, detailed reporting, and accurate cost estimation. Features an intuitive interface for creating property layouts and managing project specifications. Provides automated report generation, real-time collaboration, and centralized management of construction costs and material specifications. 
+- Backend(Firebase): Firebase SDK, Firestore (real-time sync NoSQL), Authentication, Cloud Functions
+- Front-end: Next.js, Typescript, Tailwind
 
 ## What do I do?
 I am currently pursuing my Bachelor of Science in Information and Knowledge Systems with a focus on Data Science at the University of Pretoria.
