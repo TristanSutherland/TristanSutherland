@@ -55,6 +55,7 @@ AWS, Firebase and Supabase
 ### NoSQL
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## ☁️ Cloud & Backend Services
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -89,5 +90,18 @@ A modernized solution for property valuation and quantity surveying, enabling re
 - Backend(Firebase): Firebase SDK, Firestore (real-time sync NoSQL), Authentication, Cloud Functions
 - Front-end: Next.js, Typescript, Tailwind
 
-## What do I do?
-I am currently pursuing my Bachelor of Science in Information and Knowledge Systems with a focus on Data Science at the University of Pretoria.
+## 🤝 Open to
+- Collaboration on interesting projects
+- Full-time opportunities
+- Freelance work
+- Open source contributions
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+  
+  📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+  
+</div>
