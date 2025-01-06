@@ -34,6 +34,7 @@ Developed a feature-rich social media clone  of the Twitter/X platform using Rea
 - Backend(Supabase): Postgres (SQL), Supabase SDK
 - Front-end: React, Typescript
 - Testing: Cypress, postman
+  
 https://github.com/COS301-SE-2024/MiniProject15
   
 ### StructSure(Still Developing)
