@@ -46,7 +46,7 @@ A motivated Computer Science fanatic with a genuine passion for solving complex 
 
 ---
 
-## Projects
+## 🌟 Featured Projects
 ### SmartInventory
 Developed a comprehensive web-based inventory management solution featuring real-time stock tracking, automated reordering, and advanced analytics. Implemented key features including role-based access control, EOQ modeling, and ABC analysis for inventory prioritization. Built with a focus on user experience, the system incorporates machine learning for predictive forecasting of stock requirements based on historical data patterns.
 Technologies used:
