@@ -13,12 +13,11 @@
 A motivated Computer Science fanatic with a genuine passion for solving complex problems through elegant solutions. I thrive across the full technology stack, with particular interests in backend development and data science. Currently seeking to launch my career in technology, I bring strong analytical thinking, fresh perspectives, a willingness to learn, and an unwavering commitment to delivering quality work. I'm particularly excited about opportunities, allowing me to grow alongside experienced professionals while contributing to meaningful projects. I thrive in collaborative environments and am committed to continuous learning to stay at the forefront of emerging trends.
 
 ## 🎓 Education
-![University of Pretoria](https://img.shields.io/badge/University_of_Pretoria-00B7EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAnSURBVHgB7cwxDQAACAOw+YeGhQYKr0TBvbvd2XsAQJjkRr84AKCCA67NB1BnTm+EAAAAAElFTkSuQmCC&logoColor=white)
 [![UP](https://img.shields.io/badge/University_of_Pretoria-be0f2e?style=for-the-badge)](https://www.up.ac.za)  
 
 BSc Information and Knowledge Systems (Computer Science)  
 University of Pretoria  
-Class of 2023
+Class of 2024
 
 ## 📈 GitHub Stats
 
