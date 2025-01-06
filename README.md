@@ -100,8 +100,8 @@ A modernized solution for property valuation and quantity surveying, enabling re
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=TristanSutherland&color=blueviolet&style=flat-square)
   
-  📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+  📫 How to reach me: [trstnsutherland@gmail.com](mailto:trstnsutherland@gmail.com)
   
 </div>
