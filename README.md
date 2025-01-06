@@ -3,6 +3,16 @@
 ## About 
 A motivated Computer Science fanatic with a genuine passion for solving complex problems through elegant solutions. I thrive across the full technology stack, with particular interests in backend development and data science. Currently seeking to launch my career in technology, I bring strong analytical thinking, fresh perspectives, a willingness to learn, and an unwavering commitment to delivering quality work. I'm particularly excited about opportunities, allowing me to grow alongside experienced professionals while contributing to meaningful projects. I thrive in collaborative environments and am committed to continuous learning to stay at the forefront of emerging trends.
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TristanSutherland&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TristanSutherland&theme=radical" alt="GitHub Streak" />
+</div>
+
 ## Technical Skills 
 ### 🔧 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
