@@ -26,10 +26,6 @@ Class of 2024
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TristanSutherland&theme=radical" alt="GitHub Streak" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TristanSutherland&theme=radical)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanSutherland&langs_count=8)
-
 ## Technical Skills 
 ### 🔧 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
