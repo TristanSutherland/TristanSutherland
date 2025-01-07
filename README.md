@@ -27,13 +27,13 @@ Class of 2024
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=TristanSutherland&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TristanSutherland&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 
