@@ -28,12 +28,6 @@ Class of 2024
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TristanSutherland)](https://git.io/streak-stats)
 
-## 🎯 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TristanSutherland&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 
 ## Technical Skills 
 ### 🔧 Programming Languages
