@@ -22,7 +22,7 @@ Class of 2024
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TristanSutherland&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TristanSutherland&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TristanSutherland&theme=radical" alt="GitHub Streak" />
 </div>
 
