@@ -28,6 +28,7 @@ Class of 2024
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TristanSutherland&theme=radical)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanSutherland&langs_count=8)
 
 ## Technical Skills 
 ### 🔧 Programming Languages
