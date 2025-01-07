@@ -26,9 +26,7 @@ Class of 2024
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TristanSutherland&theme=radical" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TristanSutherland&theme=radical" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TristanSutherland)](https://git.io/streak-stats)
 
 ## 🎯 Top Languages
 
