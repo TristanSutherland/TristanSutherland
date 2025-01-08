@@ -24,7 +24,9 @@ Class of 2024
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TristanSutherland&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" />
 </div>
-
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TristanSutherland&theme=radical" alt="GitHub Streak" />
+</div>
 
 ## Technical Skills 
 ### 🔧 Programming Languages
