@@ -10,7 +10,9 @@
 
 ## 🚀 About 
 
-A motivated Computer Science fanatic with a genuine passion for solving complex problems through elegant solutions. I thrive across the full technology stack, with particular interests in backend development and data science. Currently seeking to launch my career in technology, I bring strong analytical thinking, fresh perspectives, a willingness to learn, and an unwavering commitment to delivering quality work. I'm particularly excited about opportunities, allowing me to grow alongside experienced professionals while contributing to meaningful projects. I thrive in collaborative environments and am committed to continuous learning to stay at the forefront of emerging trends.
+A graduate with a BSc IKS (Computer Science) degree and a minor in Data Science from the University of Pretoria, I am driven by a strong passion for leveraging technology to solve complex problems. My academic background has equipped me with robust analytical and logical thinking skills, which I am eager to apply across the full technology stack.
+
+I am particularly drawn to the challenge of extracting meaningful insights from data and designing efficient software solutions. I bring a fresh perspective, a proactive approach, and a commitment to continuous learning, and I am excited to begin my career in a role where I can contribute to innovative and impactful projects alongside experienced professionals.
 
 ## 🎓 Education
 [![UP](https://img.shields.io/badge/University_of_Pretoria-be0f2e?style=for-the-badge)](https://www.up.ac.za)  
